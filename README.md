@@ -1,2 +1,2 @@
 # Machine-Learning-1-Homework
-This repo created for me to turn in my homework
+This repo is created to turn in my homework
